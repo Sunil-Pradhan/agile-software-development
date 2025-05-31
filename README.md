@@ -9,9 +9,20 @@
 
 Instead of planning everything upfront for years (like building a house from blueprints), Agile teams build things step by step and improve along the way.
 
-Agile can be implemented using different frameworks or methods, such as:
+## 🌀 What is Scrum?
 
-- Scrum
-- Kanban
-- XP (Extreme Programming)
-- Lean
+Scrum is the **most popular Agile framework** — it breaks work into short cycles called **Sprints** (usually 2-4 weeks) to deliver working software frequently.
+
+**📌 Purpose of Scrum**
+
+Scrum helps teams:
+
+- Break down big projects into smaller, manageable parts
+- Get feedback fast
+- Work in a focused and organized way
+
+**🧱 Scrum Pillars**
+
+- **Transparency** – Everyone knows what’s going on.
+- **Inspection** – Team reviews work regularly.
+- **Adaptation** – Team adjusts based on what’s working and what’s not.
