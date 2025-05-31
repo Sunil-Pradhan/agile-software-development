@@ -82,28 +82,28 @@ Scrum defines specific time-boxed events to create regularity and minimize unnec
 
 Artifacts represent the work or value to provide transparency and opportunities for inspection and adaptation.
 
-**📦 Product Backlog**
+**1. 📦 Product Backlog**
 
 - List of everything to build.
 - Maintained and prioritized by the Product Owner.
 
 **🧾 Example:** “Add to Wishlist”, “One-Click Checkout”, “Search by Category”.
 
-**📝 Sprint Backlog**
+**2. 📝 Sprint Backlog**
 
 - Tasks selected for the current sprint.
 - Managed by the development team.
 
 **✅ Example:** “Design Wishlist UI”, “Develop backend API”, “Write tests”.
 
-**🚀 Increment**
+**3. 🚀 Increment**
 
 - The working product at the end of a sprint.
 - Must be in a usable condition.
 
 **🔍 Example:** A basic “Wishlist” that lets users save products.
 
-**🧾 Definition of Done (DoD)**
+**4. 🧾 Definition of Done (DoD)**
 
 - Checklist to say when work is truly “done”.
 
