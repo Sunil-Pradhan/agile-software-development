@@ -184,9 +184,7 @@ Let’s say you're building an e-commerce website like Amazon or Flipkart.
 - Break work into small, valuable pieces (e.g., "User Login," "Product Search," "Checkout").
 - Deliver **one feature at a time**, get feedback, and improve.
 
-**How Scrum Works in an E-commerce Company?**
-
-**Step 1:** Create a Product Backlog (To-do List)
+**Step 1: Create a Product Backlog (To-do List)**
 
 This is a list of **everything you want the website to do** , ordered by priority.
 
@@ -202,58 +200,61 @@ Example Features (Backlog Items):
 
 The **Product Owner** decides which features are most important.
 
-<table>
-  <tr>
-    <th>Agile Term</th>
-    <th>Simple Meaning</th>
-    <th>Example in E-commerce</th>
-  </tr>
-  <tr>
-    <td>Agile</td>
-    <td>Step-by-step development</td>
-    <td>Build features one by one</td>
-  </tr>
-  <tr>
-    <td>Scrum</td>
-    <td>A way to apply Agile</td>
-    <td>Teams plan sprints and work</td>
-  </tr>
-	<tr>
-    <td><strong>Azure DevOps</strong></td>
-    <td>Sprint planning, version control, CI/CD integration</td>
-    <td><a href="https://azure.microsoft.com/en-us/products/devops">azure.microsoft.com</a></td>
-  </tr>
-	<tr>
-    <td><strong>ClickUp</strong></td>
-    <td>Custom dashboards, sprint tracking, goal setting</td>
-    <td><a href="https://clickup.com/">clickup.com</a></td>
-  </tr>
-	<tr>
-    <td><strong>Monday.com</strong></td>
-    <td>Visual workflows, timeline view, automation</td>
-    <td><a href="https://monday.com/">monday.com</a></td>
-  </tr>
-	<tr>
-    <td><strong>Confluence</strong></td>
-    <td>Documentation sharing</td>
-    <td><a href="https://www.atlassian.com/software/confluence">atlassian.com</a></td>
-  </tr>
-	<tr>
-    <td><strong>Slack / Microsoft Teams</strong></td>
-    <td>Communication and collaboration</td>
-    <td><a href="https://slack.com/intl/en-in/">slack.com</a> / <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">microsoft.com</a></td>
-  </tr>
-	<tr>
-    <td><strong>GitHub</strong></td>
-    <td>Version Control</td>
-    <td><a href="https://github.com/">github.com</a></td>
-  </tr>
-		<tr>
-    <td><strong>CircleCI, Selenium, Postman</strong></td>
-    <td>CI/CD & Testing</td>
-    <td>NA</td>
-  </tr>
-</table>
+**Step 2: Sprint Planning (Pick What to Work On)**
+
+You split your work into sprints , usually lasting **2–4 weeks** .
+
+**Sprint 1 Goal:** Build basic shopping experience
+
+Team picks top-priority items from the backlog:
+
+- User login/signup
+- Browse products
+- Add items to cart
+
+They work on these for 2 weeks and deliver a working version (not perfect yet, but usable).
+
+**Step 3: Daily Standup Meetings**
+
+Team starts working for 2 weeks.
+
+Every day, they have a **Daily Scrum Meeting (15 min)**:
+
+- What did I do yesterday?
+- What will I do today?
+- Any blockers?
+
+This keeps everyone aligned.
+
+**Step 4: Sprint Review & Demo**
+
+At the end of the sprint, the team shows what they built to the Product Owner and maybe even real users.
+
+For example:
+
+- You can now log in, browse products, and add them to cart.
+- But checkout isn’t ready yet.
+
+Feedback is taken, and new ideas may be added to the backlog.
+
+**Step 5: Sprint Retrospective**
+
+The team reflects:
+
+- What went well?
+- What could be improved?
+- How can we work better next time?
+
+This helps the team **get better over time**.
+
+**Step 6: Repeat!**
+
+Then you start Sprint 2 with the next set of features:
+
+- Checkout & payment
+- Maybe part of order tracking
+
+This continues until the e-commerce site is fully ready and launched.
 
 ## ✅ Benefits and Challenges of Using Scrum
 
@@ -280,7 +281,7 @@ The **Product Owner** decides which features are most important.
 - Hold regular retrospectives to improve
 - Focus on collaboration and communication
 
-## 🚀 Further Reading / Resources
+## 🔗 Further Reading / Resources
 
 - [Scrum Guide](https://scrumguides.org/?spm=a2ty_o01.29997173.0.0.12dec921FM651p)
 - [Agile Manifesto Official Site](https://agilemanifesto.org/)
