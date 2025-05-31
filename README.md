@@ -40,3 +40,18 @@ There are three primary roles in Scrum:
 **📦 Example:** For an e-commerce site, the Product Owner might decide the team should build “One-Click Checkout” before “Dark Mode.”
 
 
+**👨‍🏫 Scrum Master**
+
+- Ensures the team follows Scrum practices.
+- Removes obstacles and supports the team.
+
+**🚧 Example:** If developers are blocked due to unclear requirements, the Scrum Master helps resolve it.
+
+**🧑‍💻 Development Team**
+
+- Builds the product.
+- Works together to complete tasks during the sprint.
+
+**👨‍💻 Example:** Developers, testers, and designers building the “Wishlist” feature in 2 weeks.
+
+
