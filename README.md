@@ -55,3 +55,27 @@ There are three primary roles in Scrum:
 **👨‍💻 Example:** Developers, testers, and designers building the “Wishlist” feature in 2 weeks.
 
 
+### 📅 Scrum Events (Ceremonies)
+
+Scrum defines specific time-boxed events to create regularity and minimize unnecessary meetings.
+
+**1. Sprint Planning** – Plan what to work on during the next sprint.
+
+- 🕒 Time: 1-2 hours (for a 2-week sprint)
+- 🎯 Goal: Choose tasks from the **Product Backlog**.
+
+**2. Daily Scrum (Stand-up)** – 15-minute daily meeting.
+
+- 🔁 Share what you did, what you’ll do, and if you're blocked.
+
+**3. Sprint Review** – Demo the work completed in the sprint.
+
+- 📽️ Show stakeholders what was built.
+- 💬 Get feedback.
+
+**4. Sprint Retrospective** – Reflect on how the team worked.
+
+- ✅ What went well?
+- 🛠️ What can be improved?
+
+**🛒 Example:** For an online store, a team might plan to build the “Product Filter” feature in Sprint Planning, discuss progress in daily standups, demo it to stakeholders during the Review, and improve teamwork in the Retrospective.
