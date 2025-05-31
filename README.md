@@ -13,7 +13,7 @@ Instead of planning everything upfront for years (like building a house from blu
 
 Scrum is the **most popular Agile framework** — it breaks work into short cycles called **Sprints** (usually 2-4 weeks) to deliver working software frequently.
 
-**📌 Purpose of Scrum**
+### 📌 Purpose of Scrum
 
 Scrum helps teams:
 
@@ -21,8 +21,22 @@ Scrum helps teams:
 - Get feedback fast
 - Work in a focused and organized way
 
-**🧱 Scrum Pillars**
+### 🧱 Scrum Pillars
 
 - **Transparency** – Everyone knows what’s going on.
 - **Inspection** – Team reviews work regularly.
 - **Adaptation** – Team adjusts based on what’s working and what’s not.
+
+### 👥 Scrum Roles
+
+There are three primary roles in Scrum:
+
+**🧑‍💼 Product Owner**
+
+- Owns the product vision.
+- Prioritizes what features to build.
+- Works closely with customers or stakeholder.
+
+**📦 Example:** For an e-commerce site, the Product Owner might decide the team should build “One-Click Checkout” before “Dark Mode.”
+
+
